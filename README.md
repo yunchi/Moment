@@ -1,7 +1,9 @@
 MomentFP: a system for mining and maintaining closed frequent itemsets over data streams [MomentFP.tar.gz] 
 
 Citation information:
+
 [1] Yun Chi, Haixun Wang, Philip S. Yu, and Richard R. Muntz. Catch the moment: maintaining closed frequent itemsets over a data stream sliding window. Knowledge and Information Systems, 10(3):265-294, 2006.
+
 [2] Yun Chi, Haixun Wang, Philip S. Yu, and Richard R. Muntz. Moment: Maintaining closed frequent itemsets over a stream sliding window. In ICDM '04: Proceedings of the Fourth IEEE International Conference on Data Mining, pages 59-66, Washington, DC, USA, 2004. IEEE Computer Society.
 
 Note: The MOA (Massive Online Analysis) project has a Java implementation of Moment, MOA-Moment.
