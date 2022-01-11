@@ -1,8 +1,5 @@
 MomentFP: a system and algorithms for mining and maintaining closed frequent itemsets over data streams
 
-Also available at my homepage:
-http://www.nec-labs.com/~ychi/publication/software.html
-
 Citation information:
 
 [1] Yun Chi, Haixun Wang, Philip S. Yu, and Richard R. Muntz. Catch the moment: maintaining closed frequent itemsets over a data stream sliding window. Knowledge and Information Systems, 10(3):265-294, 2006.
